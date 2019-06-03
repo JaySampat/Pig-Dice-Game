@@ -54,6 +54,7 @@ public class pig extends BasicGame {
         }
         else {
             turnPoints = turnPoints + roll;
+            System.out.println("Hello World");
 
         }
     }
