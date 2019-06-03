@@ -24,9 +24,9 @@ public class pig extends BasicGame {
     int maxPoints;
     int maxRoll;
     int capRoll;
-    int rollCount;
-    boolean computerTurn;
-    public pig () {
+   // int rollCount;
+    //boolean computerTurn;
+    //public pig () {
         super("pic dice game");
     }
 
